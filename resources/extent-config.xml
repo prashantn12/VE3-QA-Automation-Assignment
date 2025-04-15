@@ -1,0 +1,8 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <documentTitle>VE3 Automation Report</documentTitle>
+        <reportName>QA Test Summary</reportName>
+    </configuration>
+</extentreports>
