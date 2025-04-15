@@ -1,4 +1,4 @@
-# VE3 QA Automation Assignment 🚀
+# VE3 QA Automation Assignment 
 
 This project is a complete automation framework designed for the VE3 QA Internship assignment. It covers UI automation for VE3's official website using Java, Selenium WebDriver, and TestNG, along with data-driven testing, logging, and detailed reporting.
 
@@ -63,15 +63,15 @@ The goal of this project is to demonstrate automation skills through real-world 
 
 📂 Project Structure
     VE3Automation/
-├── src/                  → Java source code (pages, utilities, tests)
-├── test-data/            → Excel test data (search terms)
-├── reports/              → ExtentReports HTML output
-├── screenshots/          → Screenshots for failures
-├── resources/            → log4j.properties, extent-config.xml
-├── VE3_Test_Case_Document.xlsx
-├── VE3_Defect_Report.xlsx
-├── pom.xml
-└── README.md
+   ├── src/                  → Java source code (pages, utilities, tests)
+   ├── test-data/            → Excel test data (search terms)
+   ├── reports/              → ExtentReports HTML output
+   ├── screenshots/          → Screenshots for failures
+   ├── resources/            → log4j.properties, extent-config.xml
+   ├── VE3_Test_Case_Document.xlsx
+   ├── VE3_Defect_Report.xlsx
+   ├── pom.xml
+   └── README.md
 
 
 
